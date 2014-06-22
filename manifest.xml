@@ -1,0 +1,18 @@
+<package>
+  <description brief="drive_base">
+
+     drive_base
+
+  </description>
+  <author>drc</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/drive_base</url>
+  <depend package="roscpp"/>
+  <depend package="geometry_msgs"/>
+  <depend package="tf" />
+  <depend package="actionlib" />
+  <depend package="pr2_controllers_msgs" />
+</package>
+
+
